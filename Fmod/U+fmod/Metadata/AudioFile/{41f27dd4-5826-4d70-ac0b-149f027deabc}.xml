@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{41f27dd4-5826-4d70-ac0b-149f027deabc}">
+		<property name="assetPath">
+			<value>Synth_bgm_stg_nyc_fx_wav_Loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>32</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>148.6459375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{462e3846-8bd8-41a5-ba60-0fd577f8fa3a}</destination>
+		</relationship>
+	</object>
+</objects>
