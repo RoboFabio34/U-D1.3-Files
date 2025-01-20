@@ -155,6 +155,11 @@
 			"Name": "ST_ExportPNG",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/230db584ce5749f284945d3286c745fa"
+		},
+		{
+			"Name": "AdvancedThirdPersonCamera",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f51f489a722e422a9d3190e2b07bb493"
 		}
 	],
 	"TargetPlatforms": [
