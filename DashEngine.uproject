@@ -148,7 +148,7 @@
 		},
 		{
 			"Name": "LightMapUEr",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3e5c949daaab494fb5dbf54b29b0d38b"
 		},
 		{
